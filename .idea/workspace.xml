@@ -19,34 +19,41 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6298ca0d-e3f7-4538-8ab6-feea1b6d8bec" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/media/animals/test/foto/bigl-2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dddjjjango.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dddjjjango.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="6298ca0d-e3f7-4538-8ab6-feea1b6d8bec" name="Default Changelist" comment="noting works">
+      <change afterPath="$PROJECT_DIR$/blog/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/templates/animals/animal_bootstrap_form.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/templates/blog/animal_form.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/templates/errors/400.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/templates/errors/403.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/templates/errors/404.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/templates/errors/500.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/templates/update.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/animals/add animal/foto/pes.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/animals/awfasfaw/foto/kocka.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/animals/awfasfawawf/foto/ewwwww.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/apps.py" beforeDir="false" afterPath="$PROJECT_DIR$/blog/apps.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/blog/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/blog/models.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/blog/templates/base_generic.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog/templates/base_generic.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/templates/blog/blog_detail.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog/templates/blog/animal_detail.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/templates/blog/blog_list.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog/templates/blog/animal_list.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/blog/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog/templates/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/blog/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/blog/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/blog/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/blog/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/django_diy_blog/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/django_diy_blog/settings.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/django_diy_blog/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/django_diy_blog/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/animals/1/foto/pes.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/animals/486465/foto/bear.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/animals/aaaaaaaaaaa/foto/ewwwww.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/animals/aasdasdaw/foto/kocka.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/animals/aasdasdwaf/foto/bear.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/animals/awfafasf/foto/krokodil.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/animals/awfasf/foto/kocka.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/animals/awfawfawffawwfa/foto/kocka.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/animals/sg/foto/kocka.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/animals/test/foto/kocka.jpg" beforeDir="false" />
     </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -61,18 +68,35 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../DjangoProject (1)/DjangoProject" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\skuul\luc\aaaaaaaaaaaaaaaaaaaaaaaa\test\django_polorocni_projekt\django_polorocni_projekt\blog\templates\blog" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\student\it3\strohalm\test\django_polorocni_projekt\django_polorocni_projekt\blog\templates\errors" />
       <recent name="D:\skuul\luc\dddjjjango\blog" />
       <recent name="D:\skuul\luc\dddjjjango\blog\static\images" />
       <recent name="D:\skuul\luc\dddjjjango\staticfiles" />
       <recent name="D:\skuul\luc\dddjjjango\staticfiles\images" />
     </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
   </component>
   <component name="RunManager">
     <configuration name="manage" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
@@ -82,7 +106,7 @@
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="E:\student\it3\strohalm\django_polorocni_projekt\django_polorocni_projekt\venv\Scripts\python.exe" />
+      <option name="SDK_HOME" value="D:\skuul\luc\dddjjjango\venv\Scripts\python.exe" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
@@ -158,7 +182,14 @@
       <option name="project" value="LOCAL" />
       <updated>1620844614639</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="noting works">
+      <created>1624341172593</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1624341172593</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -166,12 +197,13 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
@@ -190,25 +222,29 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="739" y="280" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1624339502836" />
-    <state width="1899" height="285" key="GridCell.Tab.0.bottom" timestamp="1624340330010">
+    <state width="1899" height="285" key="GridCell.Tab.0.bottom" timestamp="1624341150883">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1899" height="285" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1624340330010" />
-    <state width="1899" height="285" key="GridCell.Tab.0.center" timestamp="1624340330010">
+    <state width="1899" height="285" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1624341150883" />
+    <state width="1899" height="285" key="GridCell.Tab.0.center" timestamp="1624341150883">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1899" height="285" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1624340330010" />
-    <state width="1899" height="285" key="GridCell.Tab.0.left" timestamp="1624340330010">
+    <state width="1899" height="285" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1624341150883" />
+    <state width="1899" height="285" key="GridCell.Tab.0.left" timestamp="1624341150883">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1899" height="285" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1624340330010" />
-    <state width="1899" height="285" key="GridCell.Tab.0.right" timestamp="1624340330010">
+    <state width="1899" height="285" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1624341150883" />
+    <state width="1899" height="285" key="GridCell.Tab.0.right" timestamp="1624341150883">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1899" height="285" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1624340330010" />
+    <state width="1899" height="285" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1624341150883" />
     <state x="461" y="170" key="SettingsEditor" timestamp="1624339599640">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="461" y="170" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1624339599640" />
+    <state x="552" y="258" key="Vcs.Push.Dialog.v2" timestamp="1624341177897">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="552" y="258" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1624341177897" />
   </component>
 </project>

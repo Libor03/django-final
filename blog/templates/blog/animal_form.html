@@ -1,13 +1,13 @@
-{% extends "base.html" %}
-{% block title %}Add animal{% endblock %}
+{% extends "base_generic.html" %}
+{% block title %}Přidat zvíře{% endblock %}
 
 {% block content %}
 <div class="row mb-3">
-    <div style="top: -30px; background-color: skyblue;" class="col-sm-12">
-        <h2 style="font-family: 'Cinzel', serif; font-size: 40px; margin-top: 7px;" class="text-center">Add animal</h2>
+    <div style="background-color: skyblue;" class="col-sm-12">
+        <h2 class="text-center">Add animal</h2>
     </div>
 </div>
-<div style="margin-left: 22%; margin-right: 22%;" class="row ">
+<div style="margin-left: 40%;" class="row ">
   <form action="" method="post" enctype="multipart/form-data">
     {% csrf_token %}
     <table>

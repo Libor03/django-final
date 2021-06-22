@@ -48,7 +48,7 @@ class Animal(models.Model):
 
     def get_absolute_url(self):
         """Metoda vrací URL stránky, na které se vypisují podrobné informace o filmu"""
-        return reverse('blog-detail', args=[str(self.id)])
+        return reverse('animal-detail', args=[str(self.id)])
 
 
 

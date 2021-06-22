@@ -17,7 +17,7 @@
             {% endif %}
             <div class="card-body">
                 <h4 class="card-title">{{ animal.name }}</h4>
-                <p class="card-text"><strong>Krátký popis: {{ animal.latin }}</strong></p>
+                <p class="card-text"><strong>Latinský název: {{ animal.latin }}</strong></p>
                 <a href="{% url 'animal-detail' animal.pk %}" class="btn btn-primary">Podrobnosti</a>
             </div>
         </div>
